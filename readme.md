@@ -40,6 +40,13 @@ Front host: http://cc.localhost
 Traefik dashboard: http://127.0.0.1:8080/dashboard/#/
 
 
+
+
+
 DB credentials - look at the docker-compose.yml
 
 Api docs are in swagger.yml
+
+
+## API To Get All Courses
+![image](https://github.com/user-attachments/assets/54f47107-bb98-4fca-acc9-3e5a4b038042)
