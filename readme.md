@@ -50,3 +50,15 @@ Api docs are in swagger.yml
 
 ## API To Get All Courses
 ![image](https://github.com/user-attachments/assets/54f47107-bb98-4fca-acc9-3e5a4b038042)
+
+## API To Get Course By Category
+![image](https://github.com/user-attachments/assets/d56d5e55-f0a2-498d-ad7b-5cb1efc76d42)
+
+## Frontend To show all Course
+![image](https://github.com/user-attachments/assets/198c1512-dd17-42b7-af7e-c09acbacefe5)
+
+## Frontend To show Courses Under a Category
+![image](https://github.com/user-attachments/assets/8314bfca-1db3-455c-905d-49bd49f4d832)
+
+
+
