@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         card.appendChild(title);
   
         const desc = document.createElement("p");
-        desc.textContent = truncateWords(course.description, 30);
+        desc.textContent = truncateWords(course.description, 15);
         card.appendChild(desc);
   
         cardsContainer.appendChild(card);

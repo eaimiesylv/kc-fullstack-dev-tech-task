@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/../models/CourseList.php';
 
-class CourseController
+class CoursController
 {
     /**
      * Retrieve all  course.
